@@ -34,3 +34,29 @@ I’m a MERN Stack Developer passionate about building full-stack web applicatio
   <a href="https://www.codechef.com/users/shahrukkabir01"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=fff&style=flat" alt="CodeChef"/></a>
   <a href="https://leetcode.com/u/shahrukkabir01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat" alt="LeetCode"/></a>
 </p>
+
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<p align="center">
+ <a href="http://www.github.com/shahrukkabir" align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahrukkabir&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shahrukkabir's GitHub stats" /></a>
+</p>
+
+<p align="center">  
+<a href="http://www.github.com/shahrukkabir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrukkabir&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/shahrukkabir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrukkabir&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
+
+
+<div align="center"> 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer">
+   <img alt="Profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=e6e7ed&height=120&section=footer">
+ </picture>
+</div>
