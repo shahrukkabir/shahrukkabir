@@ -28,19 +28,23 @@ I’m a MERN Stack Developer passionate about building full-stack web applicatio
 <h1 align="center">Socials</h1>
 
 <p align="center">
-  <a href="https://www.facebook.com/shahrukkabir01">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" height="40"/>
+  <a href="https://facebook.com/shahrukkabir01" style="text-decoration: none;" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" width="40" />
   </a>
-  <a href="https://www.instagram.com/shahrukkabir01/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/shahrukkabir01" style="text-decoration: none;" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/shahrukkabir01">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=fff&style=flat" alt="Codeforces" height="40"/>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/shahrukkabir01" style="text-decoration: none;" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codeforces.svg" alt="Codeforces" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/shahrukkabir01">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=fff&style=flat" alt="CodeChef" height="40"/>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/shahrukkabir01" style="text-decoration: none;" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" alt="CodeChef" width="40" />
   </a>
-  <a href="https://leetcode.com/u/shahrukkabir01/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat" alt="LeetCode" height="40"/>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/shahrukkabir01/" style="text-decoration: none;" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" width="40" />
   </a>
 </p>
