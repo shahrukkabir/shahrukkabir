@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Shahruk Ibney Kabir</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Competitive Programmer;Learning+Next.js+%26+TypeScript;JS+%26+React+Developer;Problem Solver" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Competitive+Programmer;Learning+Next.js+%26+TypeScript;JS+%26+React+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 
