@@ -27,7 +27,7 @@ I’m a MERN Stack Developer passionate about building full-stack web applicatio
 
 <h1 align="center">Socials</h1>
 
-<p align="center">
+<p align="center" style="margin-bottom: 50px;">
   <a href="https://www.facebook.com/shahrukkabir01"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.linkedin.com/in/shahrukkabir/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://codeforces.com/profile/shahrukkabir01"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=fff&style=flat" alt="Codeforces"/></a>
