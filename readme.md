@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Shahruk Ibney Kabir</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Competitive+Programmer;Learning+Next.js+%26+TypeScript;JS+%26+React+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Competitive+Programmer;Learning+Next.js+%26+TypeScript;JS+%26+React+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 
@@ -36,7 +36,7 @@ I’m a MERN Stack Developer passionate about building full-stack web applicatio
 </p>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+## ⚡ Stats ⚡
 
 <p align="center">
  <a href="http://www.github.com/shahrukkabir" align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahrukkabir&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shahrukkabir's GitHub stats" /></a>
@@ -53,7 +53,7 @@ I’m a MERN Stack Developer passionate about building full-stack web applicatio
 
 <div align="center"> 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer">
-   <img alt="Profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=e6e7ed&height=120&section=footer">
+  <source media="(prefers-color-scheme: black)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0f0ff0&height=120&section=footer">
+   <img alt="Profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=120&section=footer">
  </picture>
 </div>
